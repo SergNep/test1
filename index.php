@@ -1,5 +1,7 @@
-asdf 
-asdf
-asdf
+
 <?php
 echo '123';
+
+echo '<br />';
+
+echo time();
